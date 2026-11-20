@@ -1,0 +1,6 @@
+* bug-fix-revert                784725d [origin/bug-fix-revert] Update merge_branches.txt with correct commit range for bug-fix-typo merge
+  bug-fix-typo                  0b937d7 Update copyright year to 2023
+  main                          0b937d7 [origin/main: ahead 1] Update copyright year to 2023
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 784725d Update merge_branches.txt with correct commit range for bug-fix-typo merge
+  remotes/origin/main           072523a Add merge process documentation for bug-fix-typo branch
